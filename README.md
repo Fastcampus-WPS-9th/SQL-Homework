@@ -20,6 +20,7 @@
 보내기 전에 upstream브랜치에서 fetch -> merge(rebase)한 후, 충돌 없음을 확인 할 것!
 
 - [이한영](https://lhy.kr/)
+- [김태철](https://gs2dang.github.io/)
 - [한성원](https://seongwonhan88.github.io/language/sql-syntax-1/)
 - [나익채](https://github.com/RubikHouse/SQL)
 - [이동현](https://folivoradev.github.io/)
@@ -27,3 +28,4 @@
 - [김대영](https://devkimm.github.io/)
 - 송길영(블로그 미개장)
 - [정몽교](https://mongkyo.github.io/)
+
