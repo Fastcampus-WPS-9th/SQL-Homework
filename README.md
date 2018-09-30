@@ -21,3 +21,12 @@
 
 - [이한영](https://lhy.kr/)
 - [김성렬](http://kimsoungryoul.tistory.com/)
+- [김태철](https://gs2dang.github.io/)
+- [한성원](https://seongwonhan88.github.io/language/sql-syntax-1/)
+- [나익채](https://github.com/RubikHouse/SQL)
+- [이동현](https://folivoradev.github.io/)
+- [문주현](https://elonmoon.github.io/articles/2018-09/sql-tutorial)
+- [김대영](https://devkimm.github.io/)
+- 송길영(블로그 미개장)
+- [정몽교](https://mongkyo.github.io/)
+
